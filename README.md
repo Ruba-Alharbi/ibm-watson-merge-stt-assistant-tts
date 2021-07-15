@@ -17,5 +17,5 @@ The output should be like this
 Helpful resources
 -----------------
 * [IBM-STT-Doc](https://cloud.ibm.com/docs/speech-to-text/websockets.html#websockets)
-* [IBM-STT-Doc](https://cloud.ibm.com/apidocs/assistant/assistant-v2?code=python)
+* [IBM-Assistant-Doc](https://cloud.ibm.com/apidocs/assistant/assistant-v2?code=python)
 * [IBM-TTS-Doc](https://cloud.ibm.com/apidocs/text-to-speech?code=python#getpronunciation)
